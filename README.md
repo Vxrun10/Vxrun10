@@ -68,6 +68,6 @@ A clean portfolio built using modern frontend tools. *(In progress)*
 
 <p align="center">⭐ Thanks for visiting my profile! Feel free to explore my repositories.</p>
 
-**Vxrun10/Vxrun10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
