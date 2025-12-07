@@ -12,7 +12,7 @@
 ## 🚀 About Me  
 - 🔍 I specialize in **Machine Learning**, **Backend Development**, and **Data Analysis**  
 - 💡 Skilled in **Python**, **Java**, **Jupyter Notebook**, **NumPy**, **Pandas**  
-- 🌱 Currently learning advanced ML & model deployment  
+- 🌱 Currently working on Farmer Advisory AI
 - 🧠 Exploring deeper into **Django** and **Flask**  
 - 📫 Email: **varunpanchal1008@gmail.com**
 
