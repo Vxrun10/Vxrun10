@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Vxrun10&label=Profile+Views&color=0e75b6&style=flat)
 <!--<!-- Header -->
 <h1 align="center">✨ Hey, I'm <b>Varun Panchal</b> 👋</h1>
-<h3 align="center">Python & Java Developer • Machine Learning Enthusiast • Django & Flask Developer</h3>a
+<h3 align="center">Python & Java Developer • Machine Learning Enthusiast • Django & Flask Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=22D3EE&center=true&vCenter=true&width=500&lines=Machine+Learning+Developer;Python+%7C+Java+Programmer;Django+%7C+Flask+Backend+Developer;Data+Analysis+%7C+Jupyter+%7C+NumPy+%7C+Pandas;Always+Learning+New+Things!"/>
