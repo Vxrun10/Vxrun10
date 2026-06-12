@@ -1,4 +1,4 @@
-```md
+
 ![](https://komarev.com/ghpvc/?username=Vxrun10&label=Profile+Views&color=0e75b6&style=flat)
 
 <h1 align="center">✨ Hey, I'm <b>Varun Panchal</b> 👋</h1>
