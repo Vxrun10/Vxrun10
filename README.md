@@ -1,102 +1,135 @@
-<h1 align="center">Hey, I'm <b>Varun Panchal</b> 👋</h1>
-<h3 align="center">AI Engineer · Python Developer · Building real products with LLMs</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22D3EE&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+LLM+Applications;Python+%7C+Flask+%7C+FastAPI;LangChain+%7C+Groq+API+%7C+RAG;End-to-End+ML+%7C+Deployed+Projects;Always+Building+Something+New!"/>
-</p>
+<div align="center">
+Show Image
 
-🚀 About Me
+<h1>Hey, I'm <b>Varun Panchal</b> 👋</h1>
+<h3>AI Engineer &nbsp;·&nbsp; Python Developer &nbsp;·&nbsp; Building real products with LLMs</h3>
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+LLM+Applications;LangChain+%7C+Groq+API+%7C+RAG+Systems;End-to-End+ML+%7C+Deployed+Products;Always+Building+Something+New!" alt="Typing SVG" />
+<br/><br/>
 
+Show Image
+Show Image
+Show Image
 
-🤖 I build end-to-end AI applications — from LLM integrations to deployed ML pipelines
-🔧 Currently working on a RAG Document Q&A system and an AI Research Agent
-🌾 Built FarmiWise AI — an agricultural intelligence platform with crop recommendation ML
-🔍 Open to AI Engineer roles at startups — Delhi-NCR / Remote
-📫 varunpanchal1008@gmail.com
+</div>
 
+👤 About Me
+
+pythonvarun = {
+    "role"     : "AI Engineer",
+    "focus"    : ["LLM Applications", "RAG Systems", "ML Pipelines"],
+    "building" : ["RAG Document Q&A", "AI Research Agent"],
+    "location" : "Delhi-NCR, India",
+    "open_to"  : "AI Engineer roles at startups",
+    "contact"  : "varunpanchal1008@gmail.com"
+}
 
 
 🛠 Tech Stack
 
-<p align="center">
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<br/>
-<!-- AI / ML -->
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq_API-FF4B4B?style=for-the-badge&logo=groq&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<br/>
-<!-- Frameworks -->
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<br/>
-<!-- Databases -->
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<br/>
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+Languages
 
-📂 Featured Projects
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
-🌾 FarmiWise AI — Agricultural Intelligence Platform
+AI / ML
 
-End-to-end platform for data-driven farming decisions. ML-powered crop recommendation engine using soil nutrients, temperature, humidity, pH, and rainfall. Includes weather analytics, market intelligence, and crop price prediction.
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
-Python Flask Scikit-learn SQLite Bootstrap · Deployed
+Frameworks
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+Databases & Tools
+
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
 
 
-📄 Nexlanc AI — Resume Analyzer
+🚀 Featured Projects
 
-Full-stack AI web app that parses resumes (PDF/DOCX), identifies skill gaps, and auto-generates role-specific interview questions using Groq API + LangChain.
-
-Flask Groq API LangChain TiDB Cloud SQLAlchemy · Deployed on Render
-
-
-🚗 Car Price Prediction System
-
-Full ML pipeline from raw data to deployed web app. XGBoost model served via Flask API with an interactive Streamlit frontend for real-time predictions.
-
-Python XGBoost Flask Streamlit
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌾 FarmiWise AI</h3>
+      <p>Agricultural intelligence platform with an ML-powered crop recommendation engine. Takes soil nutrients, weather, and market data — gives farmers actionable decisions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Deployed-22c55e?style=flat-square"/>
+      </p>
+      <a href="https://github.com/Vxrun10/FarmiWise-AI">→ View Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 Nexlanc AI — Resume Analyzer</h3>
+      <p>Full-stack AI web app that parses resumes (PDF/DOCX), identifies skill gaps, and auto-generates interview questions using Groq API + LangChain.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-000?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Groq_API-FF4B4B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/TiDB-Cloud-blue?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Deployed-22c55e?style=flat-square"/>
+      </p>
+      <a href="https://github.com/Vxrun10/Nexlanc-AI">→ View Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 Car Price Predictor</h3>
+      <p>End-to-end ML pipeline — data cleaning → XGBoost model → Flask API → Streamlit UI. Real-time used car price predictions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/XGBoost-F7931E?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask"/>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square"/>
+      </p>
+      <a href="https://github.com/Vxrun10/Car-Price-Prediction">→ View Repo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Coming Soon</h3>
+      <p>RAG Document Q&A system and AI Research Agent — currently in active development.</p>
+      <p>
+        <img src="https://img.shields.io/badge/RAG-LangChain-000?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Status-Building-6366f1?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vxrun10&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vxrun10&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Vxrun10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vxrun10&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vxrun10&theme=tokyonight&hide_border=true" width="60%" />
+</div>
 
 🔗 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/varun-panchal-1008x">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:varunpanchal1008@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Vxrun10">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<div align="center">
+Show Image
+Show Image
+Show Image
 
-<p align="center">⭐ If you find my work interesting, feel free to star a repo or reach out!</p>
+<br/>
+<i>Thanks for visiting — feel free to explore my repos or reach out!</i>
+
+</div>
