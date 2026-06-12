@@ -1,135 +1,73 @@
-<div align="center">
-Show Image
+![](https://komarev.com/ghpvc/?username=Vxrun10&label=Profile+Views&color=0e75b6&style=flat)
+<!--<!-- Header -->
+<h1 align="center">✨ Hey, I'm <b>Varun Panchal</b> 👋</h1>
+<h3 align="center">Python & Java Developer • Machine Learning Enthusiast • Django & Flask Developer</h3>a
 
-<h1>Hey, I'm <b>Varun Panchal</b> 👋</h1>
-<h3>AI Engineer &nbsp;·&nbsp; Python Developer &nbsp;·&nbsp; Building real products with LLMs</h3>
-<br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+LLM+Applications;LangChain+%7C+Groq+API+%7C+RAG+Systems;End-to-End+ML+%7C+Deployed+Products;Always+Building+Something+New!" alt="Typing SVG" />
-<br/><br/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=22D3EE&center=true&vCenter=true&width=500&lines=Machine+Learning+Developer;Python+%7C+Java+Programmer;Django+%7C+Flask+Backend+Developer;Data+Analysis+%7C+Jupyter+%7C+NumPy+%7C+Pandas;Always+Learning+New+Things!"/>
+</p>
 
-Show Image
-Show Image
-Show Image
+---
 
-</div>
+## 🚀 About Me  
+- 🔍 I specialize in **Machine Learning**, **Backend Development**, and **Data Analysis**  
+- 💡 Skilled in **Python**, **Java**, **Jupyter Notebook**, **NumPy**, **Pandas**  
+- 🌱 Currently working on Farmer Advisory AI
+- 🧠 Exploring deeper into **Django** and **Flask**  
+- 📫 Email: **varunpanchal1008@gmail.com**
 
-👤 About Me
+---
 
-pythonvarun = {
-    "role"     : "AI Engineer",
-    "focus"    : ["LLM Applications", "RAG Systems", "ML Pipelines"],
-    "building" : ["RAG Document Q&A", "AI Research Agent"],
-    "location" : "Delhi-NCR, India",
-    "open_to"  : "AI Engineer roles at startups",
-    "contact"  : "varunpanchal1008@gmail.com"
-}
+## 🛠 Tech Stack  
+<p align="center">
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<!-- ML/Data -->
+<br>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<!-- Frameworks -->
+<br>
+<img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+</p>
+
+---
+
+## 📂 Featured Projects  
+
+### 🚗 **Car Price Prediction – ML Project**
+A regression-based ML model predicting car prices using real-world data.  
+**Tech:** Python, Pandas, NumPy, Jupyter  
+🔗 Check it in my repositories.
+
+---
+
+### 🌐 **Personal Portfolio Website**
+A clean portfolio built using modern frontend tools. *(In progress)*  
+**Tech:** HTML, CSS, Bootstrap  
+
+---
+
+## 🔗 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/varun-panchal-1008x">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:varunpanchal1008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">⭐ Thanks for visiting my profile! Feel free to explore my repositories.</p>
 
 
-🛠 Tech Stack
 
-Languages
-
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
-AI / ML
-
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
-Frameworks
-
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
-Databases & Tools
-
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-
-
-🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌾 FarmiWise AI</h3>
-      <p>Agricultural intelligence platform with an ML-powered crop recommendation engine. Takes soil nutrients, weather, and market data — gives farmers actionable decisions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask"/>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Deployed-22c55e?style=flat-square"/>
-      </p>
-      <a href="https://github.com/Vxrun10/FarmiWise-AI">→ View Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📄 Nexlanc AI — Resume Analyzer</h3>
-      <p>Full-stack AI web app that parses resumes (PDF/DOCX), identifies skill gaps, and auto-generates interview questions using Groq API + LangChain.</p>
-      <p>
-        <img src="https://img.shields.io/badge/LangChain-000?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Groq_API-FF4B4B?style=flat-square"/>
-        <img src="https://img.shields.io/badge/TiDB-Cloud-blue?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Deployed-22c55e?style=flat-square"/>
-      </p>
-      <a href="https://github.com/Vxrun10/Nexlanc-AI">→ View Repo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 Car Price Predictor</h3>
-      <p>End-to-end ML pipeline — data cleaning → XGBoost model → Flask API → Streamlit UI. Real-time used car price predictions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/XGBoost-F7931E?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask"/>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square"/>
-      </p>
-      <a href="https://github.com/Vxrun10/Car-Price-Prediction">→ View Repo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 Coming Soon</h3>
-      <p>RAG Document Q&A system and AI Research Agent — currently in active development.</p>
-      <p>
-        <img src="https://img.shields.io/badge/RAG-LangChain-000?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Status-Building-6366f1?style=flat-square"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vxrun10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vxrun10&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vxrun10&theme=tokyonight&hide_border=true" width="60%" />
-</div>
-
-🔗 Connect With Me
-
-<div align="center">
-Show Image
-Show Image
-Show Image
-
-<br/>
-<i>Thanks for visiting — feel free to explore my repos or reach out!</i>
-
-</div>
